@@ -1,0 +1,7 @@
+C:\Users\john\source\repos\Week1CapstonePigLatin\Week1CapstonePigLatin\bin\Debug\Week1CapstonePigLatin.exe.config
+C:\Users\john\source\repos\Week1CapstonePigLatin\Week1CapstonePigLatin\bin\Debug\Week1CapstonePigLatin.exe
+C:\Users\john\source\repos\Week1CapstonePigLatin\Week1CapstonePigLatin\bin\Debug\Week1CapstonePigLatin.pdb
+C:\Users\john\source\repos\Week1CapstonePigLatin\Week1CapstonePigLatin\obj\Debug\Week1CapstonePigLatin.csprojAssemblyReference.cache
+C:\Users\john\source\repos\Week1CapstonePigLatin\Week1CapstonePigLatin\obj\Debug\Week1CapstonePigLatin.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\Week1CapstonePigLatin\Week1CapstonePigLatin\obj\Debug\Week1CapstonePigLatin.exe
+C:\Users\john\source\repos\Week1CapstonePigLatin\Week1CapstonePigLatin\obj\Debug\Week1CapstonePigLatin.pdb
